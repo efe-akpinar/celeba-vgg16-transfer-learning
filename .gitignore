@@ -1,0 +1,15 @@
+# Dataset (not redistributed, see README)
+data/
+
+# Model checkpoints
+*.pt
+*.pth
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
